@@ -5,11 +5,9 @@ Seguime en <kbd>[<img title="Mi perfil en LinkedIn" alt="Mi perfil en LinkedIn" 
 **Tecnologías usadas:**  
 <img title="Python" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="20"> &emsp;
 <img title="Terraform" alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" height="20"> &emsp;
-<img title="DBT" alt="DBT" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white
-" height="20"> &emsp;
+<img title="DBT" alt="DBT" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="20"> &emsp;
 <img title="Prefect" alt="Prefect" src="https://img.shields.io/badge/Prefect-5772b0?style=for-the-badge&logo=?logoColor=white" height="20"> &emsp; 
-<img title="Google Cloud" alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-" height="20"> &emsp;
+<img title="Google Cloud" alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="20"> &emsp;
 
 ## Index
 - [Introducción](#introducción)
