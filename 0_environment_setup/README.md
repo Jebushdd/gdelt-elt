@@ -30,5 +30,5 @@ Confirmamos con ```y```
 En el caso en que estés usando tu sistema operativo normal, se abrirá tu navegador para que confirmes la autenticación con tu cuenta de google. Si estás usando una terminal remota o sin acceso a un sistema operativo, recibirás un link que debes abrir para confirmar la autenticación y también un código que debes colocar en la terminal.
 
 ## 4. Instalar Terraform
-Según nuestro sistema operativo, seguimos las instrucciones en la [documentación ofifical de Terraform](https://developer.hashicorp.com/terraform/downloads).  
+Según nuestro sistema operativo, seguimos las instrucciones en la [documentación oficial de Terraform](https://developer.hashicorp.com/terraform/downloads).  
 De todas maneras, siempre podemos descargar el binario para nuestro SO y agregarlo en una carpeta de nuestra variable PATH
