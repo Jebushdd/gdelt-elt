@@ -17,7 +17,7 @@ Seguime en <kbd>[<img title="Mi perfil en LinkedIn" alt="Mi perfil en LinkedIn" 
 
 ## Introducción
 Este proyecto de ELT (Extract, Load, Transform) toma los datasets de [GDELT](https://www.gdeltproject.org/), los almacena en Google Cloud Storage y los procesa en Google BigQuery transformánodolos con DBT Cloud para que puedan ser analizados a través de Looker Studio.  
-Para conocer más sobre los fundamentos de las herramientas usadas están disponibles el [Data Engineering Zoompcamp](https://youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb), y mis notas personales de cada módulo en el repositorio [Data Engineering Bootcamp](https://github.com/Jebushdd/Data-Engineering-Bootcamp).
+Para conocer más sobre los fundamentos de las herramientas usadas, están disponibles el [Data Engineering Zoomcamp](https://youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb), y mis notas personales de cada módulo en el repositorio [Data Engineering Bootcamp](https://github.com/Jebushdd/Data-Engineering-Bootcamp).
 
 ## Contexto
 GDELT (Global Database of Events, Language, and Tone) es una base de datos global de eventos y noticias que se actualiza constantemente. GDELT monitorea noticias y eventos en todo el mundo y los recopila en una base de datos accesible al público. La base de datos contiene información sobre eventos, personas, lugares y organizaciones, y utiliza técnicas de procesamiento del lenguaje natural (NLP) para analizar el tono y la emoción de los artículos de noticias. GDELT es utilizado por investigadores, periodistas y organizaciones en todo el mundo para analizar patrones y tendencias en noticias y eventos globales.
