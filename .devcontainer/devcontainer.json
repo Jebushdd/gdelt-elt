@@ -1,0 +1,14 @@
+{
+  "name":"gdelt-project",
+  "image":"https://github.com/docker-library/python/blob/936a2ed61e9930bfec0de767e78877e29d288322/3.10/bullseye/Dockerfile",
+  "features": {
+    "ghcr.io/devcontainers/features/sshd:1": {
+      "version": "latest"
+    }
+  },
+  "hostRequirements": {
+    "cpus": 4,
+    "memory": "8gb",
+    "storage": "15gb" 
+  }
+}
