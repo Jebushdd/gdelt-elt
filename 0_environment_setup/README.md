@@ -119,7 +119,11 @@ Una máquina virtual nos servirá para ejecutar de manera remota nuestros script
 Controlamos que el CLI de GitHub este instalado en CloudShell `gh --version`  
 Si no recibimos la versión de gh entonces debemos [instalarlo](https://github.com/cli/cli/blob/trunk/docs/install_linux.md) y logearnos siguiendo los pasos al ejecutar `gh auth login`
 
-11. 
+11. Creamos el codespace
+    ``` 
+    gh codespace create -R 'gdelt-elt' \
+    --devcontainer-path './devcontainer/devcontainer.json'
+    ```
 
 # Usando la shell de GCP para preparar los recursos de Terraform
 
